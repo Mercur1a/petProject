@@ -1,0 +1,27 @@
+.loader {
+  border: 3px dashed rgba(60, 189, 60, 0.753);
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  animation: rotate 1s linear infinite;
+  margin: auto;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  70% {
+    transform: rotate(360deg) scale(1.5);
+  }
+  100% {
+    transform: rotate(0deg) scale(1);
+  }
+}
+
+.loaderItems {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

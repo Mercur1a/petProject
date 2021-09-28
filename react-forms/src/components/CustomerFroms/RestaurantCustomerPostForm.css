@@ -1,0 +1,38 @@
+textarea {
+  height: 75px;
+  width: 200px;
+  resize: none;
+  margin: 5px 10px;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.radio {
+  display: flex;
+  flex-direction: column;
+}
+
+.radio label {
+  margin: 10px 10px 0 10px;
+}
+
+.radio h3 {
+  margin-top: 15px;
+}
+
+.formBtn {
+  margin: 10px;
+}
+
+.form {
+  display: flex;
+  justify-content: space-around;
+}
+
+.name-box {
+  width: 400px;
+}

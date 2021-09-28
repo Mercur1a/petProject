@@ -1,0 +1,7 @@
+.myBtn {
+  border: 2px solid gainsboro;
+  padding: 5px 15px;
+  border-radius: 5%;
+  background: rgba(220, 220, 220, 0.7);
+  margin: 5px 0 0 5px;
+}

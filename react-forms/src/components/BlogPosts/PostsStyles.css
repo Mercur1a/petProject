@@ -1,0 +1,9 @@
+.postItem {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px 15px;
+  padding: 15px 10px;
+  border: 2px solid rgb(79 199 199 / 95%);
+  max-width: 800px;
+}

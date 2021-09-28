@@ -1,0 +1,10 @@
+.modalInner {
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 15px;
+}
+
+.modalTitle {
+  color: rgb(155, 12, 12);
+}
