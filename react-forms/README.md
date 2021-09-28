@@ -1,2 +1,2 @@
-React based pet project 
-few pages with react forms and posts uploaded from jsonplaceholder
+React based pet project.
+Few pages with react forms and posts uploaded from jsonplaceholder.
